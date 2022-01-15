@@ -1,6 +1,8 @@
 # all-in-one-recipes
 ## Frontend recipes app
-Create, make and control recipes. Built with with React Hooks/Context API
+Create, make and control recipes. Built with with React Hooks/Context API.
+Developed with collaboration of Vinicius Palenske, Victo Cabrera Lopes and Paulo Freire.
+I was mostly responsible for login page, details page and all the logic behind localstorage.
 
 ## How to install
 
